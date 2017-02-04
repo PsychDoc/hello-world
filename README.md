@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+This is my first repository
+My moto is "different doesn't mean wrong"
